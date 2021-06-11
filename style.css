@@ -110,7 +110,7 @@ body {
     position: fixed;
     top: 53rem;
     width: 80%;
-    margin: 100px auto 0;
+    margin: 100px auto 50px;
     padding: 1rem;
     background-color:#03f8e4;
     border: none;
@@ -129,12 +129,12 @@ body {
 
 footer {
     position: absolute;
-    margin: 0 auto;
+    margin-top: 8rem;
     bottom: 0;
     right: 0;
     left: 0;
 
-    padding-bottom: 1rem;
+    padding: 3rem 1rem;
 }
 
 footer p, span {
